@@ -31,7 +31,7 @@ using Toybox.Application as App;
 //*     Datum    | von     | 
 //* -----------  ----------  --------------------------------------------
 //*  29.06.2015   AWI   initial erstellt
-//*                          
+//*  01.07.2015   AWI   am / pm 24h mode support                        
 //**
 //************************************************************************
 
@@ -88,6 +88,8 @@ class awidotView extends Ui.WatchFace {
    var pic_daypig;  // displays a pig --> 0 goals reached within 7 days
    var pic_weekendwar; // weekendwarrior --> Sat & Sun goal reached with >= 200% 
    var pic_specialday; // picture for special days 
+   var pic_am; // am or pm font as *.png 
+   var pic_pm; // pm der was a error using only 1 variable by switching between 24 and 12h mode while watchface  
    
    var sec;
    var screenWidth;  
@@ -121,6 +123,9 @@ class awidotView extends Ui.WatchFace {
         pic_goal150    = Ui.loadResource(Rez.Drawables.id_goal150);  
         pic_weekendwar = Ui.loadResource(Rez.Drawables.id_pic_weekendwar);
         
+        // am pm picture
+        pic_am         = Ui.loadResource(Rez.Drawables.id_pic_am);
+        pic_pm         = Ui.loadResource(Rez.Drawables.id_pic_pm); 
         
         // maybe the most inefficient way to load thr right "special-day"-picture.
         // sorry, my first try with dicts --> very shitty code
@@ -159,7 +164,7 @@ class awidotView extends Ui.WatchFace {
         else if (wasspecial == dict_eventy["25"]){ // first may
             pic_specialday = Ui.loadResource(Rez.Drawables.id_pic_firstmay);
         } 
-        else if (wasspecial == dict_eventy["78"]){ // hiroshima  - thx USA...
+        else if (wasspecial == dict_eventy["78"]){ // hiroshima  
             pic_specialday = Ui.loadResource(Rez.Drawables.id_pic_hiroshima);
         } 
         else if (wasspecial == dict_eventy["410"]){ // Tag der deutschen Einheit
@@ -184,11 +189,31 @@ class awidotView extends Ui.WatchFace {
        
  	  // draw Activity bar (Arc, Steps and StepsGoal) 
  	  drawActivity(dc);
+ 	  
+ 	  
+ 	    var clockTime = Sys.getClockTime();
+        var hour, min, time;
 
-	    // get Time and display it		
-		var time = makeClockTime();		
+        min  = clockTime.min;
+        hour = clockTime.hour;
+        if( !device_settings.is24Hour ) { // AM/PM anzeige
+           if (hour == 0) {hour = 12;}
+           if (hour >= 13) {
+                hour = hour - 12;
+                dc.drawBitmap(screenWidth/2 -19, 15, pic_pm); // show pm sign
+                }
+                else{
+                dc.drawBitmap(screenWidth/2 -19, 15, pic_am); // show am sign
+                }
+            time  = Lang.format("$1$ : $2$",[hour.format("%2d"), min.format("%02d")]); 
+        }
+        else {
+            time = Lang.format("$1$ : $2$",[hour.format("%02d"), min.format("%02d")]);
+        }
+ 	  
+ 	    // #########################draw TIME ####################################		
         dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
-        dc.drawText(dc.getWidth()/2, 58 , font, time, Gfx.TEXT_JUSTIFY_CENTER );
+        dc.drawText(screenWidth/2, 58 , font, time, Gfx.TEXT_JUSTIFY_CENTER );
         
         //get date & display
         var dateStrings = Time.Gregorian.info( Time.now(), Time.FORMAT_MEDIUM);
@@ -199,8 +224,6 @@ class awidotView extends Ui.WatchFace {
         
         // Sekundenanzeigen im POWER Modus (wenn man die Hand dreht), sonst Wochentag
         if (fast_updates == true){
-		    // Uhrzeit auslesen für sekundenanzeige
-			var clockTime = Sys.getClockTime();
 			var sec = clockTime.sec;
 	    	// check if you are on a good way achieving your daily stepsGoal
 			var seccolor = secprognose(); // get the right color
@@ -319,25 +342,25 @@ function drawSpecial(dc){
  
 
 //special Day batch is more important than every other batch (without 300% batch)
-if (wasSpecialDay() != null ){
-    dc.drawBitmap(131, 133, pic_specialday);
-    check = false; // batch set
-}
- 
+	if (wasSpecialDay() != null ){
+	    dc.drawBitmap(131, 133, pic_specialday);
+	    check = false; // batch set
+	}
+	 
 // Weekendwarrior
 // don#t check weekendwarior batch on Sat & Sunday 
 // to achieve the batch, sa & sun must be achieved with 200%
-if ( (dateStrings.day_of_week != 1 ) && (dateStrings.day_of_week!= 7) && (check) ){
-  if ( acthis.size() == 7 ){ // only if the history is completely filled
-   actproz = 100 * ( acthis[dateStrings.day_of_week.toNumber() - 2].steps.toFloat() / acthis[dateStrings.day_of_week.toNumber() - 2].stepGoal );
-   if ( actproz >= 200 ){ // sunday achieved
-	actproz = 100 * ( acthis[dateStrings.day_of_week.toNumber() - 1].steps.toFloat() / acthis[dateStrings.day_of_week.toNumber() - 1].stepGoal );
-  	 if ( actproz >= 200 ){ // saturday achieved 
-		 dc.drawBitmap(131, 133, pic_weekendwar); // show weekendwarrior!
-		 check = false;
-	 }
-   }
- }    
+	if ( (dateStrings.day_of_week != 1 ) && (dateStrings.day_of_week!= 7) && (check) ){
+	  if ( acthis.size() == 7 ){ // only if the history is completely filled
+	   actproz = 100 * ( acthis[dateStrings.day_of_week.toNumber() - 2].steps.toFloat() / acthis[dateStrings.day_of_week.toNumber() - 2].stepGoal );
+	   if ( actproz >= 200 ){ // sunday achieved
+		actproz = 100 * ( acthis[dateStrings.day_of_week.toNumber() - 1].steps.toFloat() / acthis[dateStrings.day_of_week.toNumber() - 1].stepGoal );
+	  	 if ( actproz >= 200 ){ // saturday achieved 
+			 dc.drawBitmap(131, 133, pic_weekendwar); // show weekendwarrior!
+			 check = false;
+		 }
+	   }
+	 }    
 }
 
 
@@ -484,17 +507,7 @@ function drawArc(dc, x, y, radius, thickness, angle, offsetIn, colors, direction
     		dc.drawCircle(x, y, radius-thickness);
     	}
     }    
-hidden function makeClockTime()
-    {
-        var clockTime = Sys.getClockTime();
-        var hour, min, result;
 
-        hour = clockTime.hour;
-        //hour = (hour == 0) ? 12 : hour; // für 12 Stundenanzeige - wer will das schon?
-        min = clockTime.min;
-        // You so money and you don't even know it
-        return Lang.format("$1$ : $2$",[hour.format("%02d"), min.format("%02d")]);
-    }
 
     //! Called when this View is removed from the screen. Save the
     //! state of this View here. This includes freeing resources from
