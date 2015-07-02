@@ -90,6 +90,9 @@ class awidotView extends Ui.WatchFace {
    var pic_specialday; // picture for special days 
    var pic_am; // am or pm font as *.png 
    var pic_pm; // pm der was a error using only 1 variable by switching between 24 and 12h mode while watchface  
+   var pic_20k;
+   var pic_25k;
+   var pic_50k;
    
    var sec;
    var screenWidth;  
@@ -121,6 +124,9 @@ class awidotView extends Ui.WatchFace {
         pic_goal300    = Ui.loadResource(Rez.Drawables.id_goal300);  
         pic_goal200    = Ui.loadResource(Rez.Drawables.id_goal200);  
         pic_goal150    = Ui.loadResource(Rez.Drawables.id_goal150);  
+        pic_20k        = Ui.loadResource(Rez.Drawables.id_pic_20k);          
+        pic_25k        = Ui.loadResource(Rez.Drawables.id_pic_25k);  
+        pic_50k        = Ui.loadResource(Rez.Drawables.id_pic_50k);  
         pic_weekendwar = Ui.loadResource(Rez.Drawables.id_pic_weekendwar);
         
         // am pm picture
@@ -277,16 +283,15 @@ function wasSpecialDay(){
   var dateStrings = Time.Gregorian.info( Time.now(), Time.FORMAT_SHORT);
   var event = dateStrings.day.toString() + dateStrings.month.toString();
   var actproz;
-   
   if (dict_eventy[event] != null ){ // just take a look to the other dict. Its easier to declare 2 dicts than to calc "yesterday" dict_event[]!
       var acthis = ActivityMonitor.getHistory();
     	 if (acthis.size() > 0){
 		      actproz = 100 * ( acthis[0].steps.toFloat() / acthis[0].stepGoal );
 		      if ( actproz >= 100 )   { // ziel gestern erreicht
-	            return dict_eventy[event];	        
+	            return dict_eventy[event];
 		      }
 		      else{   
-		         return false;
+		         return false;	         
 		      }  
 		 }
 		 else {
@@ -295,7 +300,9 @@ function wasSpecialDay(){
    } 
    else {
     return false;
-  }      
+  } 
+  return false;
+    
 }   	 
 
   // read 7 day history and get Trophys
@@ -341,8 +348,8 @@ function drawSpecial(dc){
   var check = true;
  
 
-//special Day batch is more important than every other batch (without 300% batch)
-	if (wasSpecialDay() != null ){
+//special Day batch is more important than every other batch (not 300% batch and 50k)
+	if (wasSpecialDay()){
 	    dc.drawBitmap(131, 133, pic_specialday);
 	    check = false; // batch set
 	}
@@ -370,6 +377,21 @@ function drawSpecial(dc){
 // daher schleife
  if ( acthis.size() > 0 )
   {
+  		
+  	  // Steps Goals
+  	  if ( acthis[0].steps.toNumber() >= 50000 ){
+  	   dc.drawBitmap(131, 133, pic_50k);
+  	   check = false; 
+  	  }
+  	  else if ( acthis[0].steps.toNumber() >= 25000  && check){
+  	   dc.drawBitmap(131, 133, pic_25k); 
+  	   check = false; 	  
+  	  }
+  	  else if ( ( acthis[0].steps.toNumber() >= 20000 ) && (check)){
+  	   dc.drawBitmap(131, 133, pic_20k);  	  
+  	  }
+  	  
+  	  // Prozent ziele
   	  actproz = 100 * ( acthis[0].steps.toFloat() / acthis[0].stepGoal );
 	  if ( actproz >= 300 )	  { // we warrior gesetzt, aber drüber legen!
 		{ dc.drawBitmap(131, 133, pic_goal300);}

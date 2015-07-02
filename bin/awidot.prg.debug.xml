@@ -1,254 +1,267 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="108" pc="268435458" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="109" pc="268435501" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="110" pc="268435544" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="111" pc="268435563" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="113" pc="268435582" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="116" pc="268435605" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="117" pc="268435648" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="118" pc="268435691" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="119" pc="268435734" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="120" pc="268435777" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="121" pc="268435820" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="122" pc="268435863" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="123" pc="268435906" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="124" pc="268435949" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="127" pc="268435992" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="128" pc="268436035" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="133" pc="268436078" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="134" pc="268436091" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="135" pc="268436111" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="138" pc="268436177" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="141" pc="268436243" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="144" pc="268436309" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="147" pc="268436375" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="150" pc="268436441" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="153" pc="268436507" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="156" pc="268436582" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="159" pc="268436648" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="162" pc="268436714" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="165" pc="268436780" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="168" pc="268436846" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="171" pc="268436912" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="174" pc="268436958" symbol="onLayout"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="187" pc="268437007" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="188" pc="268437043" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="191" pc="268437055" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="194" pc="268437069" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="195" pc="268437086" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="197" pc="268437086" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="198" pc="268437096" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="199" pc="268437106" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="200" pc="268437124" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="200" pc="268437135" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="201" pc="268437145" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="202" pc="268437156" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="203" pc="268437166" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="206" pc="268437214" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="208" pc="268437259" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="211" pc="268437338" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="215" pc="268437414" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="216" pc="268437450" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="219" pc="268437503" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="220" pc="268437559" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="221" pc="268437595" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="222" pc="268437638" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="222" pc="268437652" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="223" pc="268437665" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="226" pc="268437722" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="227" pc="268437736" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="229" pc="268437746" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="230" pc="268437759" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="231" pc="268437785" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="234" pc="268437850" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="235" pc="268437864" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="236" pc="268437878" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="240" pc="268437941" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="247" pc="268437958" symbol="drawActivity"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="248" pc="268437977" symbol="drawActivity"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="249" pc="268437987" symbol="drawActivity"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="250" pc="268437997" symbol="drawActivity"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="251" pc="268437997" symbol="drawActivity"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="252" pc="268438043" symbol="drawActivity"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="252" pc="268438054" symbol="drawActivity"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="254" pc="268438064" symbol="drawActivity"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="256" pc="268438100" symbol="drawActivity"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="259" pc="268438243" symbol="drawActivity"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="260" pc="268438279" symbol="drawActivity"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="261" pc="268438336" symbol="drawActivity"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="267" pc="268438396" symbol="isSpecialDay"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="268" pc="268438452" symbol="isSpecialDay"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="269" pc="268438489" symbol="isSpecialDay"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="270" pc="268438503" symbol="isSpecialDay"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="272" pc="268438509" symbol="isSpecialDay"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="277" pc="268438515" symbol="wasSpecialDay"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="278" pc="268438571" symbol="wasSpecialDay"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="279" pc="268438608" symbol="wasSpecialDay"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="281" pc="268438608" symbol="wasSpecialDay"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="282" pc="268438624" symbol="wasSpecialDay"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="283" pc="268438643" symbol="wasSpecialDay"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="284" pc="268438663" symbol="wasSpecialDay"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="285" pc="268438709" symbol="wasSpecialDay"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="286" pc="268438720" symbol="wasSpecialDay"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="289" pc="268438735" symbol="wasSpecialDay"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="293" pc="268438741" symbol="wasSpecialDay"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="297" pc="268438747" symbol="wasSpecialDay"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="304" pc="268438753" symbol="drawHis"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="305" pc="268438772" symbol="drawHis"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="306" pc="268438791" symbol="drawHis"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="307" pc="268438795" symbol="drawHis"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="308" pc="268438802" symbol="drawHis"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="309" pc="268438809" symbol="drawHis"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="312" pc="268438816" symbol="drawHis"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="314" pc="268438840" symbol="drawHis"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="315" pc="268438881" symbol="drawHis"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="315" pc="268438887" symbol="drawHis"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="316" pc="268438900" symbol="drawHis"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="318" pc="268438913" symbol="drawHis"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="323" pc="268438930" symbol="drawHis"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="323" pc="268438941" symbol="drawHis"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="324" pc="268438985" symbol="drawHis"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="325" pc="268439029" symbol="drawHis"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="326" pc="268439073" symbol="drawHis"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="328" pc="268439106" symbol="drawHis"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="329" pc="268439117" symbol="drawHis"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="336" pc="268439153" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="337" pc="268439172" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="338" pc="268439191" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="339" pc="268439191" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="340" pc="268439191" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="341" pc="268439247" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="345" pc="268439251" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="346" pc="268439267" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="347" pc="268439297" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="353" pc="268439304" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="354" pc="268439349" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="355" pc="268439369" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="356" pc="268439451" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="357" pc="268439462" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="358" pc="268439544" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="359" pc="268439555" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="360" pc="268439585" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="371" pc="268439601" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="373" pc="268439621" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="374" pc="268439667" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="375" pc="268439678" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="378" pc="268439730" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="381" pc="268439782" symbol="drawSpecial"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="389" pc="268439821" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="390" pc="268439840" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="391" pc="268439850" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="392" pc="268439860" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="393" pc="268439867" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="394" pc="268439884" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="395" pc="268439894" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="398" pc="268439904" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="400" pc="268439904" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="401" pc="268439929" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="402" pc="268439939" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="403" pc="268439952" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="404" pc="268439971" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="407" pc="268439987" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="408" pc="268439998" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="410" pc="268440026" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="412" pc="268440054" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="414" pc="268440082" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="416" pc="268440110" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="418" pc="268440127" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="421" pc="268440144" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="423" pc="268440158" symbol="secprognose"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="428" pc="268440164" symbol="drawBattery"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="429" pc="268440187" symbol="drawBattery"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="431" pc="268440200" symbol="drawBattery"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="432" pc="268440236" symbol="drawBattery"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="433" pc="268440273" symbol="drawBattery"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="434" pc="268440284" symbol="drawBattery"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="436" pc="268440334" symbol="drawBattery"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="438" pc="268440384" symbol="drawBattery"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="440" pc="268440434" symbol="drawBattery"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="442" pc="268440484" symbol="drawBattery"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="444" pc="268440523" symbol="drawBattery"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="446" pc="268440559" symbol="drawBattery"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="449" pc="268440605" symbol="drawBattery"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="450" pc="268440618" symbol="drawBattery"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="451" pc="268440654" symbol="drawBattery"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="452" pc="268440714" symbol="drawBattery"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="453" pc="268440734" symbol="drawBattery"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="455" pc="268440773" symbol="drawBattery"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="457" pc="268440809" symbol="drawBattery"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="472" pc="268440901" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="473" pc="268440911" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="474" pc="268440921" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="475" pc="268440921" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="476" pc="268440932" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="477" pc="268440948" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="479" pc="268440966" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="480" pc="268440982" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="482" pc="268441003" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="483" pc="268441014" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="484" pc="268441022" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="486" pc="268441056" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="487" pc="268441066" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="488" pc="268441076" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="490" pc="268441089" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="491" pc="268441117" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="492" pc="268441136" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="493" pc="268441209" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="495" pc="268441229" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="496" pc="268441263" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="497" pc="268441279" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="500" pc="268441299" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="501" pc="268441315" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="503" pc="268441333" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="504" pc="268441353" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="505" pc="268441363" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="506" pc="268441389" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="507" pc="268441407" symbol="drawArc"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="520" pc="268441437" symbol="onExitSleep"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="525" pc="268441450" symbol="onEnterSleep"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="526" pc="268441460" symbol="onEnterSleep"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="50" pc="268441788" symbol="&lt;init&gt;"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="64" pc="268441932" symbol="&lt;init&gt;"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="100" pc="268442115" symbol="&lt;init&gt;"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotView.mc" lineNum="104" pc="268442141" symbol="&lt;init&gt;"/>
-<entry filename="Z:\\f3\\awidot\\source\\awidotApp.mc" lineNum="15" pc="268441486" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="3" pc="268442426" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="4" pc="268442435" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="7" pc="268442446" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="12" pc="268442190" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="13" pc="268442199" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="14" pc="268442208" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="15" pc="268442217" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="16" pc="268442226" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="17" pc="268442235" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="18" pc="268442244" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="19" pc="268442253" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="20" pc="268442262" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="21" pc="268442271" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="22" pc="268442280" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="23" pc="268442289" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="24" pc="268442298" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="25" pc="268442307" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="26" pc="268442316" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="27" pc="268442325" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="28" pc="268442334" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="29" pc="268442343" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="30" pc="268442352" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="31" pc="268442361" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="32" pc="268442370" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="33" pc="268442379" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="34" pc="268442388" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="35" pc="268442397" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="36" pc="268442406" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="37" pc="268442415" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="46" pc="268441527" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="47" pc="268441541" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="48" pc="268441638" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="49" pc="268441653" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="50" pc="268441705" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="51" pc="268441751" symbol="WatchFace"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="111" pc="268435458" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="112" pc="268435501" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="113" pc="268435544" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="114" pc="268435563" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="116" pc="268435582" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="119" pc="268435605" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="120" pc="268435648" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="121" pc="268435691" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="122" pc="268435734" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="123" pc="268435777" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="124" pc="268435820" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="125" pc="268435863" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="126" pc="268435906" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="127" pc="268435949" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="128" pc="268435992" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="129" pc="268436035" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="130" pc="268436078" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="133" pc="268436121" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="134" pc="268436164" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="139" pc="268436207" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="140" pc="268436220" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="141" pc="268436240" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="144" pc="268436306" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="147" pc="268436372" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="150" pc="268436438" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="153" pc="268436504" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="156" pc="268436570" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="159" pc="268436636" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="162" pc="268436711" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="165" pc="268436777" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="168" pc="268436843" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="171" pc="268436909" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="174" pc="268436975" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="177" pc="268437041" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="180" pc="268437087" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="193" pc="268437136" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="194" pc="268437172" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="197" pc="268437184" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="200" pc="268437198" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="201" pc="268437215" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="203" pc="268437215" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="204" pc="268437225" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="205" pc="268437235" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="206" pc="268437253" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="206" pc="268437264" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="207" pc="268437274" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="208" pc="268437285" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="209" pc="268437295" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="212" pc="268437343" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="214" pc="268437388" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="217" pc="268437467" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="221" pc="268437543" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="222" pc="268437579" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="225" pc="268437632" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="226" pc="268437688" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="227" pc="268437724" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="228" pc="268437767" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="228" pc="268437781" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="229" pc="268437794" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="232" pc="268437851" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="233" pc="268437865" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="235" pc="268437875" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="236" pc="268437888" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="237" pc="268437914" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="240" pc="268437979" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="241" pc="268437993" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="242" pc="268438007" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="246" pc="268438070" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="253" pc="268438087" symbol="drawActivity"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="254" pc="268438106" symbol="drawActivity"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="255" pc="268438116" symbol="drawActivity"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="256" pc="268438126" symbol="drawActivity"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="257" pc="268438126" symbol="drawActivity"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="258" pc="268438172" symbol="drawActivity"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="258" pc="268438183" symbol="drawActivity"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="260" pc="268438193" symbol="drawActivity"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="262" pc="268438229" symbol="drawActivity"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="265" pc="268438372" symbol="drawActivity"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="266" pc="268438408" symbol="drawActivity"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="267" pc="268438465" symbol="drawActivity"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="273" pc="268438525" symbol="isSpecialDay"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="274" pc="268438581" symbol="isSpecialDay"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="275" pc="268438618" symbol="isSpecialDay"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="276" pc="268438632" symbol="isSpecialDay"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="278" pc="268438638" symbol="isSpecialDay"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="283" pc="268438644" symbol="wasSpecialDay"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="284" pc="268438700" symbol="wasSpecialDay"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="285" pc="268438737" symbol="wasSpecialDay"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="286" pc="268438737" symbol="wasSpecialDay"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="287" pc="268438753" symbol="wasSpecialDay"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="288" pc="268438772" symbol="wasSpecialDay"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="289" pc="268438792" symbol="wasSpecialDay"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="290" pc="268438838" symbol="wasSpecialDay"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="291" pc="268438849" symbol="wasSpecialDay"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="294" pc="268438864" symbol="wasSpecialDay"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="298" pc="268438870" symbol="wasSpecialDay"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="302" pc="268438876" symbol="wasSpecialDay"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="304" pc="268438879" symbol="wasSpecialDay"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="311" pc="268438885" symbol="drawHis"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="312" pc="268438904" symbol="drawHis"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="313" pc="268438923" symbol="drawHis"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="314" pc="268438927" symbol="drawHis"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="315" pc="268438934" symbol="drawHis"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="316" pc="268438941" symbol="drawHis"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="319" pc="268438948" symbol="drawHis"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="321" pc="268438972" symbol="drawHis"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="322" pc="268439013" symbol="drawHis"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="322" pc="268439019" symbol="drawHis"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="323" pc="268439032" symbol="drawHis"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="325" pc="268439045" symbol="drawHis"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="330" pc="268439062" symbol="drawHis"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="330" pc="268439073" symbol="drawHis"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="331" pc="268439117" symbol="drawHis"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="332" pc="268439161" symbol="drawHis"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="333" pc="268439205" symbol="drawHis"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="335" pc="268439238" symbol="drawHis"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="336" pc="268439249" symbol="drawHis"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="343" pc="268439285" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="344" pc="268439304" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="345" pc="268439323" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="346" pc="268439323" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="347" pc="268439323" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="348" pc="268439379" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="352" pc="268439383" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="353" pc="268439397" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="354" pc="268439427" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="360" pc="268439434" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="361" pc="268439479" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="362" pc="268439499" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="363" pc="268439581" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="364" pc="268439592" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="365" pc="268439674" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="366" pc="268439685" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="367" pc="268439715" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="378" pc="268439731" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="382" pc="268439751" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="383" pc="268439783" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="384" pc="268439813" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="387" pc="268439860" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="388" pc="268439890" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="391" pc="268439937" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="395" pc="268439970" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="396" pc="268440016" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="397" pc="268440027" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="400" pc="268440079" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="403" pc="268440131" symbol="drawSpecial"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="411" pc="268440170" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="412" pc="268440189" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="413" pc="268440199" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="414" pc="268440209" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="415" pc="268440216" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="416" pc="268440233" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="417" pc="268440243" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="420" pc="268440253" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="422" pc="268440253" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="423" pc="268440278" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="424" pc="268440288" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="425" pc="268440301" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="426" pc="268440320" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="429" pc="268440336" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="430" pc="268440347" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="432" pc="268440375" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="434" pc="268440403" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="436" pc="268440431" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="438" pc="268440459" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="440" pc="268440476" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="443" pc="268440493" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="445" pc="268440507" symbol="secprognose"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="450" pc="268440513" symbol="drawBattery"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="451" pc="268440536" symbol="drawBattery"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="453" pc="268440549" symbol="drawBattery"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="454" pc="268440585" symbol="drawBattery"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="455" pc="268440622" symbol="drawBattery"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="456" pc="268440633" symbol="drawBattery"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="458" pc="268440683" symbol="drawBattery"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="460" pc="268440733" symbol="drawBattery"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="462" pc="268440783" symbol="drawBattery"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="464" pc="268440833" symbol="drawBattery"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="466" pc="268440872" symbol="drawBattery"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="468" pc="268440908" symbol="drawBattery"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="471" pc="268440954" symbol="drawBattery"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="472" pc="268440967" symbol="drawBattery"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="473" pc="268441003" symbol="drawBattery"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="474" pc="268441063" symbol="drawBattery"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="475" pc="268441083" symbol="drawBattery"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="477" pc="268441122" symbol="drawBattery"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="479" pc="268441158" symbol="drawBattery"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="494" pc="268441250" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="495" pc="268441260" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="496" pc="268441270" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="497" pc="268441270" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="498" pc="268441281" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="499" pc="268441297" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="501" pc="268441315" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="502" pc="268441331" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="504" pc="268441352" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="505" pc="268441363" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="506" pc="268441371" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="508" pc="268441405" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="509" pc="268441415" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="510" pc="268441425" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="512" pc="268441438" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="513" pc="268441466" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="514" pc="268441485" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="515" pc="268441558" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="517" pc="268441578" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="518" pc="268441612" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="519" pc="268441628" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="522" pc="268441648" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="523" pc="268441664" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="525" pc="268441682" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="526" pc="268441702" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="527" pc="268441712" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="528" pc="268441738" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="529" pc="268441756" symbol="drawArc"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="542" pc="268441786" symbol="onExitSleep"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="547" pc="268441799" symbol="onEnterSleep"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="548" pc="268441809" symbol="onEnterSleep"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="50" pc="268442137" symbol="&lt;init&gt;"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="64" pc="268442281" symbol="&lt;init&gt;"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="103" pc="268442464" symbol="&lt;init&gt;"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotView.mc" lineNum="107" pc="268442490" symbol="&lt;init&gt;"/>
+<entry filename="C:\\garmin_projects\\awidot\\source\\awidotApp.mc" lineNum="15" pc="268441835" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="3" pc="268442802" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="4" pc="268442811" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="7" pc="268442822" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="12" pc="268442539" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="13" pc="268442548" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="14" pc="268442557" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="15" pc="268442566" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="16" pc="268442575" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="17" pc="268442584" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="18" pc="268442593" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="19" pc="268442602" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="20" pc="268442611" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="21" pc="268442620" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="22" pc="268442629" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="23" pc="268442638" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="24" pc="268442647" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="25" pc="268442656" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="26" pc="268442665" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="27" pc="268442674" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="28" pc="268442683" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="29" pc="268442692" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="30" pc="268442701" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="31" pc="268442710" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="32" pc="268442719" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="33" pc="268442728" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="34" pc="268442737" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="35" pc="268442746" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="36" pc="268442755" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="37" pc="268442764" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="38" pc="268442773" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="39" pc="268442782" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="40" pc="268442791" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="49" pc="268441876" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="50" pc="268441890" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="51" pc="268441987" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="52" pc="268442002" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="53" pc="268442054" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="54" pc="268442100" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389359" symbol="&lt;gre&gt;"/>
@@ -296,7 +309,7 @@
 <entry id="8389548" symbol="&lt;tha&gt;"/>
 <entry field="true" id="8388807" symbol="BLE_REQUEST_TOO_LARGE"/>
 <entry id="8388819" method="true" symbol="makeImageRequest"/>
-<entry id="40" module="true" symbol="Menus"/>
+<entry id="43" module="true" symbol="Menus"/>
 <entry id="3" module="true" symbol="globals_Rez_Drawables"/>
 <entry id="8388630" module="true" symbol="Toybox_Position"/>
 <entry id="8389354" symbol="&lt;dut&gt;"/>
@@ -341,7 +354,7 @@
 <entry id="8388659" method="true" symbol="testAbs"/>
 <entry field="true" id="8388989" symbol="dutyCycle"/>
 <entry id="8389043" object="true" symbol="ProgressBar"/>
-<entry field="true" id="70" symbol="AppName"/>
+<entry field="true" id="76" symbol="AppName"/>
 <entry field="true" id="8388927" symbol="SECONDS_PER_YEAR"/>
 <entry id="8389418" object="true" symbol="CommonData"/>
 <entry id="8389114" method="true" symbol="getType"/>
@@ -354,12 +367,12 @@
 <entry field="true" id="8388964" symbol="pressure"/>
 <entry id="8389303" method="true" symbol="enableLocationEvents"/>
 <entry id="8388768" object="true" symbol="Exception"/>
-<entry field="true" id="55" symbol="id_pic_black"/>
+<entry field="true" id="61" symbol="id_pic_black"/>
 <entry id="8389184" method="true" symbol="drawLine"/>
 <entry id="8389250" symbol="timestamp"/>
 <entry id="8388877" method="true" symbol="createSession"/>
-<entry field="true" id="44" symbol="id_pic_am"/>
-<entry field="true" id="42" symbol="LauncherIcon"/>
+<entry field="true" id="50" symbol="id_pic_am"/>
+<entry field="true" id="45" symbol="LauncherIcon"/>
 <entry id="8388616" module="true" symbol="Toybox_Communications"/>
 <entry field="true" id="8389380" symbol="OBSCURE_TOP"/>
 <entry field="true" id="8389201" symbol="MSG_ID_SEARCH_TIMEOUT"/>
@@ -375,14 +388,14 @@
 <entry field="true" id="8389289" symbol="GEO_DEG"/>
 <entry field="true" id="8389420" symbol="DEVICE_STATE_CLOSED"/>
 <entry id="8388926" symbol="dayHash"/>
-<entry field="true" id="65" symbol="id_daythree"/>
+<entry field="true" id="71" symbol="id_daythree"/>
 <entry field="true" id="8389248" symbol="rssi"/>
 <entry id="8389118" symbol="mDirection"/>
 <entry field="true" id="8389103" symbol="behavior"/>
 <entry id="8389252" method="true" symbol="setPayload"/>
 <entry id="8389108" method="true" symbol="onResponse"/>
 <entry field="true" id="8389506" symbol="age"/>
-<entry field="true" id="61" symbol="id_goal200"/>
+<entry field="true" id="67" symbol="id_goal200"/>
 <entry field="true" id="8389503" symbol="pedalPowerPercent"/>
 <entry field="true" id="8388963" symbol="altitude"/>
 <entry field="true" id="8389200" symbol="MSG_ID_CHANNEL_PERIOD"/>
@@ -438,7 +451,7 @@
 <entry id="8388677" method="true" symbol="testTypeConversion"/>
 <entry id="8388942" method="true" symbol="add"/>
 <entry id="8388889" symbol="mIndex"/>
-<entry field="true" id="69" symbol="id_font_big"/>
+<entry field="true" id="75" symbol="id_font_big"/>
 <entry id="8388610" symbol="statics"/>
 <entry id="8389116" method="true" symbol="getHeight"/>
 <entry id="8388675" method="true" symbol="testGreaterThanEqual"/>
@@ -467,7 +480,7 @@
 <entry field="true" id="8389203" symbol="MSG_ID_NETWORK_KEY"/>
 <entry id="8388774" method="true" symbol="abs"/>
 <entry id="8389098" method="true" symbol="onTap"/>
-<entry id="33" method="true" symbol="isSpecialDay"/>
+<entry id="36" method="true" symbol="isSpecialDay"/>
 <entry field="true" id="8389416" symbol="BATT_STATUS_INVALID"/>
 <entry field="true" id="8389417" symbol="BATT_STATUS_CNT"/>
 <entry id="8388759" object="true" symbol="Long"/>
@@ -477,7 +490,7 @@
 <entry id="8389142" method="true" symbol="getProfile"/>
 <entry id="8389188" method="true" symbol="fillRectangle"/>
 <entry id="8388729" object="true" symbol="Info"/>
-<entry id="41" module="true" symbol="Layouts"/>
+<entry id="44" module="true" symbol="Layouts"/>
 <entry id="8388710" object="true" symbol="Stats"/>
 <entry field="true" id="8389152" symbol="FONT_XTINY"/>
 <entry id="8389189" method="true" symbol="fillRoundedRectangle"/>
@@ -488,7 +501,7 @@
 <entry id="8388885" method="true" symbol="getGeometry"/>
 <entry id="8389082" method="true" symbol="onNextMode"/>
 <entry field="true" id="8389551" symbol="PRESS_TYPE_UP"/>
-<entry field="true" id="27" symbol="device_settings"/>
+<entry field="true" id="30" symbol="device_settings"/>
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry field="true" id="8389419" symbol="DEVICE_STATE_DEAD"/>
 <entry field="true" id="8388969" symbol="TONE_MSG"/>
@@ -498,20 +511,20 @@
 <entry field="true" id="11" symbol="dict_eventy"/>
 <entry field="true" id="8389312" symbol="when"/>
 <entry id="8389080" method="true" symbol="onMenu"/>
-<entry field="true" id="30" symbol="COUNTERCLOCKWISE"/>
+<entry field="true" id="33" symbol="COUNTERCLOCKWISE"/>
 <entry id="8388956" method="true" symbol="setEnabledSensors"/>
 <entry id="8388619" module="true" symbol="Toybox_ActivityMonitor"/>
 <entry id="8388631" module="true" symbol="Activity"/>
 <entry field="true" id="17" symbol="pic_goal300"/>
-<entry field="true" id="46" symbol="id_pic_summer"/>
+<entry field="true" id="52" symbol="id_pic_summer"/>
 <entry id="8389361" symbol="&lt;hrv&gt;"/>
-<entry field="true" id="59" symbol="id_pic_tdde"/>
+<entry field="true" id="65" symbol="id_pic_tdde"/>
 <entry id="8388896" method="true" symbol="asin"/>
 <entry field="true" id="8388802" symbol="BLE_HOST_TIMEOUT"/>
 <entry id="5" module="true" symbol="globals_Rez_Fonts"/>
 <entry field="true" id="8388912" symbol="steps"/>
 <entry id="8389191" method="true" symbol="getTextDimensions"/>
-<entry id="32" method="true" symbol="drawActivity"/>
+<entry id="35" method="true" symbol="drawActivity"/>
 <entry field="true" id="8389037" symbol="NUMBER_PICKER_WEIGHT"/>
 <entry field="true" id="8389406" symbol="heightUnits"/>
 <entry id="8389329" symbol="november"/>
@@ -525,13 +538,13 @@
 <entry field="true" id="8389005" symbol="KEY_UP_RIGHT"/>
 <entry field="true" id="8388726" symbol="freeMemory"/>
 <entry id="8389079" method="true" symbol="onPreviousPage"/>
-<entry field="true" id="25" symbol="screenWidth"/>
+<entry field="true" id="28" symbol="screenWidth"/>
 <entry id="8389538" object="true" symbol="TextPickerDelegate"/>
 <entry field="true" id="8389381" symbol="OBSCURE_RIGHT"/>
 <entry id="8388714" method="true" symbol="getClockTime"/>
 <entry id="8388775" method="true" symbol="toNumber"/>
 <entry id="8389554" method="true" symbol="onKeyReleased"/>
-<entry field="true" id="26" symbol="screenHeight"/>
+<entry field="true" id="29" symbol="screenHeight"/>
 <entry id="8389355" symbol="&lt;eng&gt;"/>
 <entry field="true" id="8388860" symbol="SUB_SPORT_RECUMBENT"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
@@ -550,7 +563,7 @@
 <entry field="true" id="24" symbol="pic_pm"/>
 <entry field="true" id="8389453" symbol="WEIGHT_SCALE_ACTIVITY_LEVEL_RESERVED"/>
 <entry id="8388621" module="true" symbol="Toybox_Time_Gregorian"/>
-<entry field="true" id="56" symbol="id_pic_walpurgis"/>
+<entry field="true" id="62" symbol="id_pic_walpurgis"/>
 <entry id="8389342" symbol="hours"/>
 <entry id="8389129" symbol="mJustification"/>
 <entry field="true" id="8388748" symbol="averageHeartRate"/>
@@ -628,7 +641,7 @@
 <entry id="8389287" method="true" symbol="saveProperties"/>
 <entry field="true" id="8388727" symbol="totalMemory"/>
 <entry field="true" id="8389400" symbol="tonesOn"/>
-<entry id="34" method="true" symbol="wasSpecialDay"/>
+<entry id="37" method="true" symbol="wasSpecialDay"/>
 <entry field="true" id="8388756" symbol="averageDistance"/>
 <entry id="8389494" method="true" symbol="setUserProfile"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
@@ -679,8 +692,8 @@
 <entry field="true" id="8388851" symbol="SUB_SPORT_TREADMILL"/>
 <entry id="8389398" method="true" symbol="getDeviceSettings"/>
 <entry field="true" id="8389238" symbol="network"/>
-<entry field="true" id="64" symbol="id_daypig"/>
-<entry field="true" id="50" symbol="id_pic_halloween"/>
+<entry field="true" id="70" symbol="id_daypig"/>
+<entry field="true" id="56" symbol="id_pic_halloween"/>
 <entry id="8388639" module="true" symbol="Graphics"/>
 <entry field="true" id="8389502" symbol="rightPedalIndicator"/>
 <entry field="true" id="8388816" symbol="NETWORK_RESPONSE_TOO_LARGE"/>
@@ -688,6 +701,7 @@
 <entry id="8389130" symbol="mColor"/>
 <entry id="8388888" symbol="mLocation"/>
 <entry field="true" id="8389500" symbol="hydrationPercentage"/>
+<entry field="true" id="47" symbol="id_pic_25k"/>
 <entry id="8389283" method="true" symbol="setProperty"/>
 <entry field="true" id="8389089" symbol="MAX_SIZE"/>
 <entry field="true" id="8389401" symbol="is24Hour"/>
@@ -722,6 +736,7 @@
 <entry field="true" id="8389000" symbol="KEY_DOWN_RIGHT"/>
 <entry id="8388641" module="true" symbol="Math"/>
 <entry field="true" id="8389558" symbol="KEY_START"/>
+<entry field="true" id="26" symbol="pic_25k"/>
 <entry id="8389409" module="true" symbol="Toybox_AntPlus"/>
 <entry field="true" id="8388800" symbol="UNKNOWN_ERROR"/>
 <entry id="8388760" object="true" symbol="Float"/>
@@ -736,7 +751,7 @@
 <entry id="8389135" symbol="mKey"/>
 <entry field="true" id="8388703" symbol="callbackCalled"/>
 <entry id="8388706" method="true" symbol="insertString"/>
-<entry field="true" id="67" symbol="id_dayseven"/>
+<entry field="true" id="73" symbol="id_dayseven"/>
 <entry field="true" id="8388993" symbol="KEY_ZOUT"/>
 <entry field="true" id="8389311" symbol="accuracy"/>
 <entry field="true" id="8389218" symbol="MSG_CODE_EVENT_TX"/>
@@ -751,7 +766,7 @@
 <entry field="true" id="8389033" symbol="NUMBER_PICKER_DISTANCE"/>
 <entry field="true" id="8389007" symbol="ANIM_TYPE_EASE_IN"/>
 <entry field="true" id="8389300" symbol="LOCATION_ONE_SHOT"/>
-<entry field="true" id="54" symbol="id_pic_piday"/>
+<entry field="true" id="60" symbol="id_pic_piday"/>
 <entry id="8388717" method="true" symbol="exit"/>
 <entry id="8388949" method="true" symbol="divide"/>
 <entry field="true" id="8389526" symbol="batteryStatus"/>
@@ -766,7 +781,7 @@
 <entry id="8388986" object="true" symbol="VibeProfile"/>
 <entry id="8389014" object="true" symbol="ClickEvent"/>
 <entry field="true" id="8388732" symbol="elapsedTime"/>
-<entry field="true" id="62" symbol="id_goal300"/>
+<entry field="true" id="68" symbol="id_goal300"/>
 <entry id="8389256" method="true" symbol="open"/>
 <entry id="8388653" method="true" symbol="testGeometryIterator"/>
 <entry field="true" id="8389063" symbol="identifier"/>
@@ -780,7 +795,7 @@
 <entry field="true" id="8389411" symbol="BATT_STATUS_NEW"/>
 <entry id="8389028" object="true" symbol="MenuInputDelegate"/>
 <entry id="8388705" method="true" symbol="callback"/>
-<entry field="true" id="47" symbol="id_pic_winter"/>
+<entry field="true" id="53" symbol="id_pic_winter"/>
 <entry field="true" id="8389528" symbol="batteryVoltage"/>
 <entry field="true" id="8389314" symbol="latitude"/>
 <entry id="8388688" method="true" symbol="testSystemError"/>
@@ -797,6 +812,7 @@
 <entry id="8389331" symbol="sunday"/>
 <entry field="true" id="8389173" symbol="TEXT_JUSTIFY_CENTER"/>
 <entry id="8389070" method="true" symbol="setSize"/>
+<entry field="true" id="48" symbol="id_pic_20k"/>
 <entry id="8388712" method="true" symbol="print"/>
 <entry field="true" id="8388695" symbol="count2"/>
 <entry field="true" id="8388694" symbol="count1"/>
@@ -807,7 +823,7 @@
 <entry field="true" id="8388996" symbol="KEY_FIND"/>
 <entry field="true" id="8388803" symbol="BLE_SERVER_TIMEOUT"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
-<entry field="true" id="58" symbol="id_pic_hiroshima"/>
+<entry field="true" id="64" symbol="id_pic_hiroshima"/>
 <entry id="8389535" method="true" symbol="persistLocation"/>
 <entry id="8389094" method="true" symbol="setTitle"/>
 <entry field="true" id="8389562" symbol="KEY_CLOCK"/>
@@ -816,7 +832,7 @@
 <entry id="8388765" object="true" symbol="Symbol"/>
 <entry id="8389284" method="true" symbol="deleteProperty"/>
 <entry field="true" id="8389483" symbol="hint"/>
-<entry field="true" id="52" symbol="id_pic_starwars"/>
+<entry field="true" id="58" symbol="id_pic_starwars"/>
 <entry field="true" id="8388861" symbol="SUB_SPORT_CYCLOCROSS"/>
 <entry id="8389533" module="true" symbol="Toybox_PersistedLocations"/>
 <entry id="8389515" method="true" symbol="getCalculatedWheelSpeed"/>
@@ -825,6 +841,7 @@
 <entry id="8388900" method="true" symbol="pow"/>
 <entry id="8389176" object="true" symbol="Dc"/>
 <entry field="true" id="8389230" symbol="NETWORK_PLUS"/>
+<entry field="true" id="25" symbol="pic_20k"/>
 <entry field="true" id="8389414" symbol="BATT_STATUS_LOW"/>
 <entry field="true" id="8388846" symbol="SPORT_MOUNTAINEERING"/>
 <entry id="8388908" object="true" symbol="History"/>
@@ -889,10 +906,10 @@
 <entry field="true" id="8389012" symbol="CLICK_TYPE_HOLD"/>
 <entry field="true" id="8389229" symbol="NETWORK_PUBLIC"/>
 <entry id="8389053" object="true" symbol="BitmapResource"/>
-<entry id="36" method="true" symbol="drawSpecial"/>
+<entry id="39" method="true" symbol="drawSpecial"/>
 <entry field="true" id="8388982" symbol="TONE_POWER"/>
 <entry field="true" id="8388842" symbol="SPORT_CROSS_COUNTRY_SKIING"/>
-<entry field="true" id="66" symbol="id_dayfive"/>
+<entry field="true" id="72" symbol="id_dayfive"/>
 <entry field="true" id="8389310" symbol="position"/>
 <entry id="8388633" module="true" symbol="ActivityMonitor"/>
 <entry id="8389249" symbol="thresholdConfiguration"/>
@@ -900,7 +917,7 @@
 <entry id="8388709" object="true" symbol="ClockTime"/>
 <entry id="8388878" object="true" symbol="Symbols"/>
 <entry field="true" id="8388734" symbol="elapsedDistance"/>
-<entry field="true" id="29" symbol="CLOCKWISE"/>
+<entry field="true" id="32" symbol="CLOCKWISE"/>
 <entry id="8389112" symbol="mType"/>
 <entry field="true" id="8388962" symbol="temperature"/>
 <entry id="8389128" symbol="mFont"/>
@@ -910,15 +927,16 @@
 <entry field="true" id="8389048" symbol="SLIDE_UP"/>
 <entry field="true" id="8388973" symbol="TONE_INTERVAL_ALERT"/>
 <entry id="8389298" object="true" symbol="Location"/>
-<entry field="true" id="60" symbol="id_goal150"/>
+<entry field="true" id="66" symbol="id_goal150"/>
 <entry field="true" id="8389523" symbol="swRevisionMain"/>
 <entry id="8388715" method="true" symbol="getSystemStats"/>
 <entry id="8389516" method="true" symbol="getPedalPowerBalance"/>
 <entry id="8388624" module="true" symbol="Toybox_Attention"/>
+<entry field="true" id="46" symbol="id_pic_50k"/>
 <entry field="true" id="8389017" symbol="SWIPE_DOWN"/>
 <entry id="8388656" object="true" symbol="InputDelegate"/>
 <entry field="true" id="8388720" symbol="hour"/>
-<entry field="true" id="49" symbol="id_pic_autumn"/>
+<entry field="true" id="55" symbol="id_pic_autumn"/>
 <entry id="8389134" method="true" symbol="setText"/>
 <entry id="8389255" method="true" symbol="setDeviceConfig"/>
 <entry id="8388909" method="true" symbol="getInfo"/>
@@ -951,7 +969,8 @@
 <entry field="true" id="8389211" symbol="MSG_ID_CLOSE_CHANNEL"/>
 <entry id="8389107" method="true" symbol="setBitmap"/>
 <entry id="8388883" method="true" symbol="discard"/>
-<entry field="true" id="57" symbol="id_pic_firstmay"/>
+<entry field="true" id="63" symbol="id_pic_firstmay"/>
+<entry field="true" id="27" symbol="pic_50k"/>
 <entry id="8389575" symbol="mErrorCode"/>
 <entry field="true" id="8389487" symbol="state"/>
 <entry id="8389353" symbol="&lt;dan&gt;"/>
@@ -962,12 +981,12 @@
 <entry field="true" id="8388736" symbol="currentLocation"/>
 <entry field="true" id="8388916" symbol="startOfDay"/>
 <entry field="true" id="8388752" symbol="maxCadence"/>
-<entry id="35" method="true" symbol="drawHis"/>
+<entry id="38" method="true" symbol="drawHis"/>
 <entry id="8389338" symbol="minute"/>
 <entry id="8389086" symbol="mProgressValue"/>
 <entry field="true" id="8389199" symbol="MSG_ID_CHANNEL_ID"/>
 <entry field="true" id="8388836" symbol="SPORT_BASKETBALL"/>
-<entry field="true" id="31" symbol="fast_updates"/>
+<entry field="true" id="34" symbol="fast_updates"/>
 <entry id="8388626" module="true" symbol="Toybox_UserProfile"/>
 <entry id="8388898" method="true" symbol="cos"/>
 <entry id="8389282" method="true" symbol="getProperty"/>
@@ -989,11 +1008,11 @@
 <entry id="8389323" symbol="may"/>
 <entry field="true" id="8388930" symbol="SECONDS_PER_MINUTE"/>
 <entry field="true" id="8389266" symbol="DEFAULT_RADIO_FREQUENCY"/>
-<entry field="true" id="51" symbol="id_pic_testday"/>
+<entry field="true" id="57" symbol="id_pic_testday"/>
 <entry field="true" id="8389066" symbol="width"/>
 <entry id="8389078" method="true" symbol="onNextPage"/>
 <entry field="true" id="8389296" symbol="QUALITY_USABLE"/>
-<entry field="true" id="28" symbol="deg2rad"/>
+<entry field="true" id="31" symbol="deg2rad"/>
 <entry id="8389540" method="true" symbol="onTextEntered"/>
 <entry field="true" id="8389168" symbol="COLOR_DK_BLUE"/>
 <entry field="true" id="8389293" symbol="QUALITY_NOT_AVAILABLE"/>
@@ -1018,13 +1037,13 @@
 <entry field="true" id="8389228" symbol="MSG_CODE_EVENT_QUE_OVERFLOW"/>
 <entry field="true" id="8388832" symbol="SPORT_CYCLING"/>
 <entry field="true" id="8389001" symbol="KEY_LEFT"/>
-<entry field="true" id="48" symbol="id_pic_spring"/>
+<entry field="true" id="54" symbol="id_pic_spring"/>
 <entry field="true" id="8388745" symbol="totalAscent"/>
 <entry field="true" id="8389390" symbol="arrayCount"/>
 <entry field="true" id="8388844" symbol="SPORT_SNOWBOARDING"/>
 <entry field="true" id="8388730" symbol="startLocation"/>
 <entry field="true" id="8389290" symbol="GEO_DM"/>
-<entry field="true" id="45" symbol="id_pic_weekendwar"/>
+<entry field="true" id="51" symbol="id_pic_weekendwar"/>
 <entry id="8389243" symbol="flag"/>
 <entry id="8388783" method="true" symbol="toString"/>
 <entry id="8389328" symbol="october"/>
@@ -1070,12 +1089,12 @@
 <entry field="true" id="8389263" symbol="DEFAULT_DEVICE_TYPE"/>
 <entry id="8388728" method="true" symbol="getActivityInfo"/>
 <entry field="true" id="8388751" symbol="averageCadence"/>
-<entry field="true" id="43" symbol="id_pic_pm"/>
-<entry field="true" id="68" symbol="id_font_dot"/>
+<entry field="true" id="49" symbol="id_pic_pm"/>
+<entry field="true" id="74" symbol="id_font_dot"/>
 <entry field="true" id="8389473" symbol="separatePedalSmoothnessSupport"/>
 <entry field="true" id="8388697" symbol="timer2"/>
 <entry id="8389326" symbol="august"/>
-<entry field="true" id="53" symbol="id_pic_newyear"/>
+<entry field="true" id="59" symbol="id_pic_newyear"/>
 <entry field="true" id="8388696" symbol="timer1"/>
 <entry field="true" id="8388992" symbol="KEY_ZIN"/>
 <entry id="8388902" method="true" symbol="sin"/>
@@ -1129,7 +1148,7 @@
 <entry field="true" id="8389214" symbol="MSG_ID_CHANNEL_RESPONSE_EVENT"/>
 <entry id="8389356" symbol="&lt;fin&gt;"/>
 <entry id="8389276" object="true" symbol="AppBase"/>
-<entry id="38" method="true" symbol="drawBattery"/>
+<entry id="41" method="true" symbol="drawBattery"/>
 <entry id="8389510" symbol="DEVICE_TYPE_BIKE_POWER"/>
 <entry field="true" id="8389034" symbol="NUMBER_PICKER_TIME"/>
 <entry id="8388646" module="true" object="true" symbol="Timer"/>
@@ -1178,7 +1197,7 @@
 <entry id="8389479" method="true" symbol="getDeviceState"/>
 <entry field="true" id="8389169" symbol="COLOR_PURPLE"/>
 <entry id="8389180" method="true" symbol="drawPoint"/>
-<entry id="39" method="true" symbol="drawArc"/>
+<entry id="42" method="true" symbol="drawArc"/>
 <entry id="8389260" method="true" symbol="sendBroadcast"/>
 <entry field="true" id="8388862" symbol="SUB_SPORT_HAND_CYCLING"/>
 <entry id="8389436" object="true" symbol="CalculatedWheelSpeed"/>
@@ -1222,7 +1241,7 @@
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry field="true" id="8389504" symbol="crankCadence"/>
 <entry field="true" id="8389291" symbol="GEO_DMS"/>
-<entry field="true" id="63" symbol="id_dayone"/>
+<entry field="true" id="69" symbol="id_dayone"/>
 <entry field="true" id="8388955" symbol="SENSOR_TEMPERATURE"/>
 <entry field="true" id="8388894" symbol="E"/>
 <entry id="8388707" method="true" symbol="insertWithPut"/>
@@ -1243,7 +1262,7 @@
 <entry id="8389370" symbol="&lt;swe&gt;"/>
 <entry id="8388692" object="true" symbol="TimerStart"/>
 <entry field="true" id="8389167" symbol="COLOR_BLUE"/>
-<entry id="37" method="true" symbol="secprognose"/>
+<entry id="40" method="true" symbol="secprognose"/>
 <entry id="8389340" symbol="years"/>
 <entry field="true" id="8389388" symbol="FONT_NUMBER_THAI_HOT"/>
 <entry id="8389434" object="true" symbol="CalculatedTorque"/>
